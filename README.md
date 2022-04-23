@@ -1,5 +1,5 @@
-# It seems that this program doesn't work. 
-# I will fix the issue as soon as possible. 
+#### It seems that this program doesn't work. 
+#### I will fix the issue as soon as possible. 
 # Win10X Booting Animation Unlocker
 
 ### zh_CN README
